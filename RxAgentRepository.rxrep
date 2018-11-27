@@ -1,0 +1,21 @@
+﻿<repository
+id="b51e9b1a-a3d9-4b30-bd95-35a3ccca3ebd"
+name="RxAgentRepository"
+rxversion="8.1">
+	<codegen
+	classname="RxAgentRepository"
+	namespace="RxAgent">
+	</codegen>
+	<rootfolder
+	capname="unknown"
+	id="adca8137-7128-4c6a-94ee-9bd646130516"
+	isrooted="True"
+	name="Root"
+	searchtimeout="0ms"
+	usecache="True">
+		<basepath>
+		</basepath>
+	</rootfolder>
+	<variables>
+	</variables>
+</repository>

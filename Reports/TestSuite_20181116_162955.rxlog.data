@@ -1,0 +1,329 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Failed"
+		duration="3.8m"
+		durationms="226516"
+		type="root"
+		rid="1f5d850125506843"
+		totalerrorcount="1"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="tuan.tran"
+		rxversion="8.1.0.0"
+		host="PC00517"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="en-US"
+		screenresolution="1366x768"
+		timestamp="11/16/2018 4:30:45 PM"
+		timestampiso="2018-11-16T09:30:45"
+		endtime="11/16/2018 4:34:31 PM"
+		timeoutfactor="1">
+		<detail>
+			Ranorex Testscript
+		</detail>
+		<item
+			timeRelativeToTestSuiteStartTime="00:01.761"
+			timeRelativeToTestModuleStartTime="00:01.761"
+			timeWallClock="16:30:46"
+			time="00:01.761"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item at 45;5.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='dut-web.spirenteng.com']/?/?/table/tbody/tr[7]/?/?/a[@innertext='Flex4.5/']"
+				itempath="/dom[@domain='dut-web.spirenteng.com']/?/?/table/tbody/tr[7]/?/?/a[@innertext='Flex4.5/']"
+				fullname="Test Page.UI Element"
+				id="3529d992a9f64df9927a3e7e1e08ca8b"
+				timeout="10000"
+				codefile="c:\Users\tuan.tran\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\RanorexAgent_C#\RanorexAgent\Commands\CommandHandler\MouseItemHandler.cs"
+				codeline="66"
+				itemindex="0"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:03.033"
+			timeRelativeToTestModuleStartTime="00:03.033"
+			timeWallClock="16:30:48"
+			time="00:03.033"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item at 70;4.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='dut-web.spirenteng.com']/?/?/table/tbody/tr[4]/?/?/a[@innertext='Flex4_5.html']"
+				itempath="/dom[@domain='dut-web.spirenteng.com']/?/?/table/tbody/tr[4]/?/?/a[@innertext='Flex4_5.html']"
+				fullname="Test Page.UI Element"
+				id="3529d992a9f64df9927a3e7e1e08ca8b"
+				timeout="10000"
+				codefile="c:\Users\tuan.tran\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\RanorexAgent_C#\RanorexAgent\Commands\CommandHandler\MouseItemHandler.cs"
+				codeline="66"
+				itemindex="1"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:04.069"
+			timeRelativeToTestModuleStartTime="00:04.069"
+			timeWallClock="16:30:49"
+			time="00:04.069"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item at 121;215.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='dut-web.spirenteng.com']//object[#'Flex4_5']"
+				itempath="/dom[@domain='dut-web.spirenteng.com']//object[#'Flex4_5']"
+				fullname="Test Page.UI Element"
+				id="3529d992a9f64df9927a3e7e1e08ca8b"
+				timeout="10000"
+				codefile="c:\Users\tuan.tran\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\RanorexAgent_C#\RanorexAgent\Commands\CommandHandler\MouseItemHandler.cs"
+				codeline="66"
+				itemindex="2"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:05.928"
+			timeRelativeToTestModuleStartTime="00:05.928"
+			timeWallClock="16:30:51"
+			time="00:05.928"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item at 755;633.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='dut-web.spirenteng.com']//object[#'Flex4_5']"
+				itempath="/dom[@domain='dut-web.spirenteng.com']//object[#'Flex4_5']"
+				fullname="Test Page.UI Element"
+				id="3529d992a9f64df9927a3e7e1e08ca8b"
+				timeout="10000"
+				codefile="c:\Users\tuan.tran\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\RanorexAgent_C#\RanorexAgent\Commands\CommandHandler\MouseItemHandler.cs"
+				codeline="66"
+				itemindex="3"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:06.926"
+			timeRelativeToTestModuleStartTime="00:06.926"
+			timeWallClock="16:30:52"
+			time="00:06.926"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item at 755;633.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='dut-web.spirenteng.com']//object[#'Flex4_5']"
+				itempath="/dom[@domain='dut-web.spirenteng.com']//object[#'Flex4_5']"
+				fullname="Test Page.UI Element"
+				id="3529d992a9f64df9927a3e7e1e08ca8b"
+				timeout="10000"
+				codefile="c:\Users\tuan.tran\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\RanorexAgent_C#\RanorexAgent\Commands\CommandHandler\MouseItemHandler.cs"
+				codeline="66"
+				itemindex="4"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:07.933"
+			timeRelativeToTestModuleStartTime="00:07.933"
+			timeWallClock="16:30:53"
+			time="00:07.933"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item at 757;633.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='dut-web.spirenteng.com']//object[#'Flex4_5']"
+				itempath="/dom[@domain='dut-web.spirenteng.com']//object[#'Flex4_5']"
+				fullname="Test Page.UI Element"
+				id="3529d992a9f64df9927a3e7e1e08ca8b"
+				timeout="10000"
+				codefile="c:\Users\tuan.tran\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\RanorexAgent_C#\RanorexAgent\Commands\CommandHandler\MouseItemHandler.cs"
+				codeline="66"
+				itemindex="5"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:28.977"
+			timeRelativeToTestModuleStartTime="00:28.977"
+			timeWallClock="16:31:14"
+			time="00:28.977"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item at 45;5.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='dut-web.spirenteng.com']/?/?/table/tbody/tr[7]/?/?/a[@innertext='Flex4.5/']"
+				itempath="/dom[@domain='dut-web.spirenteng.com']/?/?/table/tbody/tr[7]/?/?/a[@innertext='Flex4.5/']"
+				fullname="Test Page.UI Element"
+				id="3529d992a9f64df9927a3e7e1e08ca8b"
+				timeout="10000"
+				codefile="c:\Users\tuan.tran\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\RanorexAgent_C#\RanorexAgent\Commands\CommandHandler\MouseItemHandler.cs"
+				codeline="66"
+				itemindex="6"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:29.964"
+			timeRelativeToTestModuleStartTime="00:29.964"
+			timeWallClock="16:31:15"
+			time="00:29.964"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item at 70;4.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='dut-web.spirenteng.com']/?/?/table/tbody/tr[4]/?/?/a[@innertext='Flex4_5.html']"
+				itempath="/dom[@domain='dut-web.spirenteng.com']/?/?/table/tbody/tr[4]/?/?/a[@innertext='Flex4_5.html']"
+				fullname="Test Page.UI Element"
+				id="3529d992a9f64df9927a3e7e1e08ca8b"
+				timeout="10000"
+				codefile="c:\Users\tuan.tran\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\RanorexAgent_C#\RanorexAgent\Commands\CommandHandler\MouseItemHandler.cs"
+				codeline="66"
+				itemindex="7"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:31.779"
+			timeRelativeToTestModuleStartTime="00:31.779"
+			timeWallClock="16:31:16"
+			time="00:31.779"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item at 121;215.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='dut-web.spirenteng.com']//object[#'Flex4_5']"
+				itempath="/dom[@domain='dut-web.spirenteng.com']//object[#'Flex4_5']"
+				fullname="Test Page.UI Element"
+				id="3529d992a9f64df9927a3e7e1e08ca8b"
+				timeout="10000"
+				codefile="c:\Users\tuan.tran\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\RanorexAgent_C#\RanorexAgent\Commands\CommandHandler\MouseItemHandler.cs"
+				codeline="66"
+				itemindex="8"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:33.513"
+			timeRelativeToTestModuleStartTime="00:33.513"
+			timeWallClock="16:31:18"
+			time="00:33.513"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item at 755;633.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='dut-web.spirenteng.com']//object[#'Flex4_5']"
+				itempath="/dom[@domain='dut-web.spirenteng.com']//object[#'Flex4_5']"
+				fullname="Test Page.UI Element"
+				id="3529d992a9f64df9927a3e7e1e08ca8b"
+				timeout="10000"
+				codefile="c:\Users\tuan.tran\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\RanorexAgent_C#\RanorexAgent\Commands\CommandHandler\MouseItemHandler.cs"
+				codeline="66"
+				itemindex="9"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:34.728"
+			timeRelativeToTestModuleStartTime="00:34.728"
+			timeWallClock="16:31:19"
+			time="00:34.728"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item at 755;633.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='dut-web.spirenteng.com']//object[#'Flex4_5']"
+				itempath="/dom[@domain='dut-web.spirenteng.com']//object[#'Flex4_5']"
+				fullname="Test Page.UI Element"
+				id="3529d992a9f64df9927a3e7e1e08ca8b"
+				timeout="10000"
+				codefile="c:\Users\tuan.tran\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\RanorexAgent_C#\RanorexAgent\Commands\CommandHandler\MouseItemHandler.cs"
+				codeline="66"
+				itemindex="10"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:35.676"
+			timeRelativeToTestModuleStartTime="00:35.676"
+			timeWallClock="16:31:20"
+			time="00:35.676"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item at 757;633.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='dut-web.spirenteng.com']//object[#'Flex4_5']"
+				itempath="/dom[@domain='dut-web.spirenteng.com']//object[#'Flex4_5']"
+				fullname="Test Page.UI Element"
+				id="3529d992a9f64df9927a3e7e1e08ca8b"
+				timeout="10000"
+				codefile="c:\Users\tuan.tran\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\RanorexAgent_C#\RanorexAgent\Commands\CommandHandler\MouseItemHandler.cs"
+				codeline="66"
+				itemindex="11"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="03:46.516"
+			timeRelativeToTestModuleStartTime="03:46.516"
+			timeWallClock="16:34:31"
+			time="03:46.516"
+			level="Error"
+			category="Module">
+			<message>
+				The test run has been aborted by the user.
+			</message>
+			<metainfo
+				loglvl="Error">
+			</metainfo>
+		</item>
+	</activity>
+</report>

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Failed"
+		duration="29.5m"
+		durationms="1770131"
+		type="root"
+		rid="10a146f98a06d20"
+		totalerrorcount="1"
+		totalwarningcount="1"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="tuan.tran"
+		rxversion="8.1.0.0"
+		host="PC00517"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="en-US"
+		screenresolution="1366x768"
+		timestamp="11/15/2018 3:29:37 PM"
+		timestampiso="2018-11-15T08:29:37"
+		endtime="11/15/2018 3:59:07 PM"
+		timeoutfactor="1">
+		<detail>
+			Ranorex Testscript
+		</detail>
+		<item
+			timeRelativeToTestSuiteStartTime="00:00.067"
+			timeRelativeToTestModuleStartTime="00:00.068"
+			timeWallClock="15:29:37"
+			time="00:00.067"
+			level="Warn"
+			category="Mobile">
+			<message>
+				Could not detect iTunes installation on this system. It is recommended to use iOS devices via a USB connection to get all functionality. Ranorex can only communicate with iOS devices if iTunes is installed. Please close Ranorex, install iTunes and restart Ranorex afterwards.<br/>The following website provides more information on this technology limitation:<br/>https://www.ranorex.com/help/v8.1/ios-testing<br/>(This message is only shown once per report.)
+			</message>
+			<metainfo
+				limitationName="MobileIos"
+				showInProgressDialog="False"
+				codefile="c:\Users\tuan.tran\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\RanorexAgent_C#\RanorexAgent\Agent.cs"
+				codeline="397"
+				loglvl="Warn">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="29:30.131"
+			timeRelativeToTestModuleStartTime="29:30.132"
+			timeWallClock="15:59:07"
+			time="29:30.131"
+			level="Error"
+			category="Module">
+			<message>
+				The test run has been aborted by the user.
+			</message>
+			<metainfo
+				loglvl="Error">
+			</metainfo>
+		</item>
+	</activity>
+</report>

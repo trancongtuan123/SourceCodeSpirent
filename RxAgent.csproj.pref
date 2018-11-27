@@ -1,0 +1,24 @@
+﻿<Properties>
+  <Array name="active">
+    <Element value="Agent.cs" />
+  </Array>
+  <Array name="bookmarks">
+    <Element value="Breakpoint|C:\Users\tuan.tran\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\RanorexAgent_C#\RanorexAgent\Agent.cs|487|13|True|Break||" />
+    <Element value="Breakpoint|C:\Users\tuan.tran\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\RanorexAgent_C#\RanorexAgent\Agent.cs|678|13|True|Break||" />
+    <Element value="Breakpoint|C:\Users\tuan.tran\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\RanorexAgent_C#\RanorexAgent\Agent.cs|561|17|True|Break||" />
+  </Array>
+  <Array name="files">
+    <Element value="Agent.cs" />
+    <Element value="Program.cs" />
+    <Element value="Commands\Command.cs" />
+    <Element value="AgentServer.cs" />
+    <Element value="MainForm.cs" />
+  </Array>
+  <Properties name="projectSavedData">
+    <Properties name="customTool">
+      <fileNames value="" />
+      <runOnBuild value="False" />
+    </Properties>
+    <Properties name="watchVars" />
+  </Properties>
+</Properties>

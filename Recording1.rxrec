@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="c42c6d9c-1b89-4d24-a592-576bbd79dd79"
+mode="Global"
+rxversion="8.1">
+	<name>
+		Recording1
+	</name>
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="Recording1"
+	namespace="RxAgent">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+	</recorditems>
+	<repository
+	id="b51e9b1a-a3d9-4b30-bd95-35a3ccca3ebd"
+	name="RxAgentRepository"
+	relativepath="RxAgentRepository.rxrep"
+	rxversion="8.1">
+		<codegen
+		classname="RxAgentRepository"
+		namespace="RxAgent">
+		</codegen>
+		<rootfolder
+		id="adca8137-7128-4c6a-94ee-9bd646130516"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		Recording1.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

@@ -1,0 +1,12 @@
+﻿<Properties>
+  <ActiveConfiguration value="Debug" />
+  <ActivePlatform value="x86" />
+  <SerializedValue name="ModuleBrowserState">
+    <ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <string>{C8A0BFCB-FB87-44CF-B0F6-94ABBF8BA166}</string>
+      <string>60513a05-eab7-41e7-8c10-e51c735edc2e</string>
+    </ArrayOfString>
+  </SerializedValue>
+  <ProjectBrowserState value="[Solution RxAgent[RxAgent[Commands[CommandHandler[]]Util[]]Rxdatabase[]]]&#xD;&#xA;Solution RxAgent\RxAgent\Agent.cs&#xD;&#xA;Solution RxAgent\RxAgent\Commands\CommandHandler\SwipeItemHandler.cs" />
+  <StartupProject value="{8CD7C598-0595-4C92-9EDE-9D958AD557DF}" />
+</Properties>
